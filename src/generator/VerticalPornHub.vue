@@ -174,8 +174,8 @@ export default {
         },
         twitter(){
             this.$ga.event('social', 'action', 'twitter', 1)
-            let url = "https://logoly.pro"
-            let text = encodeURIComponent(`Built with #LogolyPro, by @xiqingongzi ${url}`)
+            let url = "https://PrettyLogo.pro"
+            let text = encodeURIComponent(`Built with #PrettyLogo, by @DW920 ${url}`)
             window.open(`https://twitter.com/intent/tweet?text=${text}`)
         }
     },

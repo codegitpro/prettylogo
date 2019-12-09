@@ -14,7 +14,7 @@
 <template>
   <div class="logo">
     <h1>
-      <span class="prefix">Logoly</span>
+      <span class="prefix">PrettyLogo</span>
       <span class="postfix">Pro</span>
     </h1>
   </div>
